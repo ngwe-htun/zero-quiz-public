@@ -5,7 +5,7 @@ import { calcuatePercentage } from './utils.js';
 /** variables */
 let quizzies;
 let score = 0;
-let maxQuiz = 10;
+let maxQuiz = 1;
 let currentIndex;
 let randomIndices;
 let percentage = 0;
